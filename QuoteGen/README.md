@@ -1,0 +1,1 @@
+[Objectively Speaking: A Crash Course in Objective-C for iOS 6](http://www.raywenderlich.com/21320/objectively-speaking-a-crash-course-in-objective-c-ios6)
